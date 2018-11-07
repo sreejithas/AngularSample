@@ -1,0 +1,15 @@
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a routerLink="/" routerLinkActive="active">Home</a></li>
+      <li><a routerLinkActive="active">Page 1</a></li>
+      <li><a routerLink="/signup" routerLinkActive="active">Page 2</a></li>
+      <li><a (click)="logOut()" routerLinkActive="active">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
+
+<router-outlet></router-outlet>

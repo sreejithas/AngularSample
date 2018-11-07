@@ -1,0 +1,144 @@
+{
+  "stud": [
+    {
+      "username": "sreejith@gmail.com",
+      "password": "123456",
+      "name": "Sreejith",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "subin@gmail.com",
+      "password": "123456",
+      "name": "Subin",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "name": "aaaaa",
+      "username": "aaaa",
+      "password": "aaaa",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "bbbb",
+      "username": "bbbb",
+      "password": "bbbb",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "cccc",
+      "username": "cccc",
+      "password": "cccc",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "name": "tttt",
+      "username": "tttt",
+      "password": "tttt",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "name": "rrrr",
+      "username": "rrrr",
+      "password": "rrrr",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "name": "uuuu",
+      "username": "uuuu",
+      "password": "uuuu",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "name": "hhhh",
+      "username": "hhhh",
+      "password": "hhhh",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "name": "iiii",
+      "username": "iiii",
+      "password": "iiii",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "name": "gggg",
+      "username": "gggg",
+      "password": "gggg",
+      "role": "user",
+      "id": 11
+    },
+    {
+      "name": "nnnn",
+      "username": "nnnn",
+      "password": "nnnn",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "name": "vvvv",
+      "username": "vvvv",
+      "password": "vvvv",
+      "role": "user",
+      "id": 13
+    },
+    {
+      "name": "dddd",
+      "username": "dddd",
+      "password": "dddd",
+      "role": "user",
+      "id": 14
+    },
+    {
+      "name": "pppp",
+      "username": "pppp",
+      "password": "pppp",
+      "role": "user",
+      "id": 15
+    },
+    {
+      "name": "uyuy",
+      "username": "uyuy",
+      "password": "uyuy",
+      "role": "user",
+      "id": 16
+    },
+    {
+      "name": "qwerty",
+      "username": "qwerty",
+      "password": "qwerty",
+      "role": "user",
+      "id": 17
+    },
+    {
+      "name": "",
+      "username": "",
+      "password": "",
+      "role": "user",
+      "id": 18
+    },
+    {
+      "name": "popo",
+      "username": "popo",
+      "password": "popo",
+      "role": "user",
+      "id": 19
+    },
+    {
+      "name": "wwww",
+      "username": "thth",
+      "password": "thth",
+      "role": "user",
+      "id": 20
+    }
+  ]
+}
